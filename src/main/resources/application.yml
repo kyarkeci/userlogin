@@ -1,0 +1,17 @@
+#spring:
+#  mail:
+#    host: localhost
+#    port: 1025
+#    username: hello
+#    password: hello
+#    properties:
+#      mail:
+#        smtp:
+#          auth: true
+#          starttls:
+#            enable: true
+#          ssl:
+#            trust: "*"
+#          connection-timeout: 5000
+#          timeout: 3000
+#          write timeout: 5000
